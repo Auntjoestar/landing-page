@@ -229,4 +229,15 @@ p.quote-author
     border-radius: 8px;
 }
 
-
+.footer
+{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    background-color: #1f2937;
+    color: #F9FAF8;
+    font-size: 18px;
+    font-weight: 500;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
