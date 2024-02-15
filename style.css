@@ -187,3 +187,46 @@ p.quote-author
     border-radius: 8px;
 }
 
+.newsletter
+{
+    display: flex;
+    justify-content: space-between;
+    gap: 40px;
+    margin: 110px 200px 110px 200px;
+    padding: 20px 100px 20px 100px;
+    background-color: #3882F6;
+    border-radius: 8px;
+}
+
+.newsletter-text
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.newsletter-title > h1
+{
+    font-size: 24px;
+    color: #F9FAF8;
+    margin-bottom: 2px;
+}
+
+.newsletter-content > p
+{
+    font-size: 18px;
+    color: #E5E7EB;  
+    margin-top: 0px; 
+}
+
+.newsletter-button
+{
+    align-self: center;
+    height: fit-content;
+    width: fit-content;
+    padding: 2px;
+    background-color: #F9FAF8;
+    border-radius: 8px;
+}
+
+
