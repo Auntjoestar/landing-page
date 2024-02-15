@@ -147,4 +147,43 @@ button
     border-radius: 8px;
 }
     
+.quote
+{
+    background-color: #E5E7EB;
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    padding: 60px 200px 80px 200px;
+}
+
+.quote-content
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-right: 10px;
+}
+
+p.quote-text
+{
+    font-size: 36px;
+    font-weight: 100;
+    font-style: italic;
+    color: #1f2937;
+    margin-bottom: 2px;
+}
+
+
+p.quote-author
+{
+    margin-top: 0;
+    align-self: flex-end;
+}
+
+.quote-img
+{
+    min-height: 200px;
+    max-height: 200px;
+    border-radius: 8px;
+}
 
