@@ -4,6 +4,8 @@ In this project a web page was codded aproximating us as close as posibe to a [r
 As a theme for this project I chose the indie game [lethal company](https://store.steampowered.com/app/1966720/Lethal_Company/) developed by the inde game dev Zeekerss. 
 
 #### Image references:
+[Logo](https://www.google.com/search?q=lethal+company+logo&tbm=isch&ved=2ahUKEwiQvJmB-KyEAxXNmbAFHfw0BYMQ2-cCegQIABAA&oq=lethal+company+&gs_lp=EgNpbWciD2xldGhhbCBjb21wYW55ICoCCAEyBBAjGCcyBBAjGCcyBhAAGAgYHjIHEAAYgAQYGDIHEAAYgAQYGDIHEAAYgAQYGDIHEAAYgAQYGDIHEAAYgAQYGDIHEAAYgAQYGDIHEAAYgAQYGEjFClC9Ali9AnAAeACQAQCYAZMBoAGcAqoBAzAuMrgBAcgBAPgBAYoCC2d3cy13aXotaW1niAYB&sclient=img&ei=qczNZdDDIs2zwt0P_OmUmAg&bih=571&biw=1242#imgrc=FxaRm_5olHXtkM)
+
 [Icon](https://www.google.com/search?q=lethal+company+png&tbm=isch&ved=2ahUKEwiFgcqO9qyEAxXQJ2IAHaUzAwAQ2-cCegQIABAA&oq=le&gs_lp=EgNpbWciAmxlKgIIATIEECMYJzIEECMYJzIKEAAYgAQYigUYQzIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgARI1T9QuwxY4TNwBXgAkAEDmAGHAaAB7RGqAQQxLjE5uAEByAEA-AEBigILZ3dzLXdpei1pbWeoAgrCAgYQABgIGB7CAgcQABiABBgYwgIHECMY6gIYJ8ICCxAAGIAEGLEDGIMBwgIEEAAYA8ICCBAAGIAEGLEDiAYB&sclient=img&ei=rMrNZYX7LdDPiLMPpecM&bih=571&biw=1242#imgrc=BACbQz0IU5Hw2M)
 
 [Hero](https://www.google.com/search?sca_esv=1814fa2a4600643d&sxsrf=ACQVn0975LFJG-Conq5Nd3lmh51t_77HeA:1707985381908&q=lethal+company&tbm=isch&source=lnms&sa=X&ved=2ahUKEwjIjuGv9ayEAxUMTTABHU8HC3wQ0pQJegQIDRAB&cshid=1707985579074228&biw=1242&bih=571&dpr=1.1#imgrc=HPPR1qu7h7vgJM)
